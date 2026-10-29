@@ -1,4 +1,5 @@
-## Hi there 👋
+<img width="554" height="554" alt="IMG_1983" src="https://github.com/user-attachments/assets/ccf7ff34-9ccc-4a3d-a84e-aa525ea1920e" />
+
 
 <!--
 **brody-animates/brody-animates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
